@@ -1,0 +1,14 @@
+body{
+    background-color: #04a6eb;
+    color: #fdffff;
+    width: 1px;
+    margin-right: auto;
+    margin-left: auto;
+}
+textarea{
+    resize: none;
+    width: 15px;
+    height: 100px;
+ 
+}
+
